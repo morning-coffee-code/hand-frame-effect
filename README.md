@@ -25,7 +25,7 @@ Works on video files and on a webcam preview.
 
 ```bash
 
-git clone https://github.com/<your-username>/hand-frame-effect.git
+git clone https://github.com/morning-coffee-code/hand-frame-effect.git
 
 cd hand-frame-effect
 
